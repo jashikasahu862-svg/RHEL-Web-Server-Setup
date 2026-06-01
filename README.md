@@ -24,13 +24,17 @@ chmod +x setup_webserver.sh
 ./setup_webserver.sh
 ```
 
-### Output
+# RHEL-Web-Server-Setup
+
+## Project Overview
+This repository contains the configuration and setup steps for a web server hosted on a Red Hat Enterprise Linux (RHEL) instance.
+
+## Output
 After successful deployment, the server's public IP address (54.147.170.147) serves the default RHEL test page over HTTP (Port 80).
 
-![Successful Web Server Output](1413595522249899721.jpeg)
+![Successful Web Server Output](rhel-test-page.jpg)
+*Figure 1: Successful web server output.*
 
-Figure 1: Successful web server output.
-
-### Live Demo
+## Live Demo
 You can view my deployed web server here:
 [Click here to access the live web server](http://54.147.170.147)
